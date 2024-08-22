@@ -1,0 +1,36 @@
+{
+	"$schema": "https://raw.githubusercontent.com/xen-42/outer-wilds-new-horizons/main/NewHorizons/Schemas/body_schema.json",
+	"name": "Ember Twin",
+	"removeChildren": [
+		"SandSphere_Rising"
+	],
+	"Base": {
+		"gravityFallOff": "linear"
+	},
+	"MapMarker": {
+		"minDisplayDistanceOverride": -1.0,
+		"maxDisplayDistanceOverride": -1.0
+	},
+	"Orbit": {
+		"orbitLineFadeEndDistance": -1.0,
+		"orbitLineFadeStartDistance": -1.0
+	},
+	"ReferenceFrame": {},
+	"ShockEffect": {},
+	"Water": {
+		"size": 1.0,
+		"tint": {
+			"r": 30,
+			"g": 30,
+			"b": 100,
+			"a": 0
+		},
+		"curve": [
+			{},
+			{
+				"time": 22.0,
+				"value": 170.0
+			}
+		]
+	}
+}
