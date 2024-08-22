@@ -1,0 +1,16 @@
+{
+	"name": "Ember Twin",
+	"removeChildren": ["SandSphere_Falling"],
+	"Water": {
+        "curve": [
+            {
+                "time": 0,
+                "value": 100
+            },
+            {
+                "time": 22,
+                "value": 0
+            }
+        ]
+    }
+}
