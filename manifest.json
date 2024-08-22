@@ -4,7 +4,7 @@
 	"author": "Solar",
 	"name": "Tropical Hourglass Twins",
 	"uniqueName": "solar.TropicalTwins",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"owmlVersion": "2.13.0",
 	"dependencies": [ "xen.NewHorizons" ]
 }
